@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @jsgggg
-- 👀 I’m interested in machine learning and specifically computer vision
-- 🌱 I’m currently learning opencv
-- 💞️ I’m looking to collaborate on projects on machine learning
-- 📫 How to reach me jadon@junspace.com
+- 👋 Hi, I’m Jadon Gao
+
 
 <!---
 jsgggg/jsgggg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
